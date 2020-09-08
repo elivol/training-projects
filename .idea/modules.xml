@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards1.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards1.Flashcards-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards1.Flashcards-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards1.Flashcards-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards1.Flashcards-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards1.Flashcards-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards1.Flashcards-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Flashcards1.Problems-Advanced_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Flashcards1.Problems-Advanced_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Flashcards1.Problems-Advanced_calculator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Flashcards1.Problems-Advanced_calculator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Flashcards1.Problems-Advanced_calculator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Advanced calculator/Flashcards1.Problems-Advanced_calculator.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Flashcards1.Problems-Basic_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Flashcards1.Problems-Basic_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Flashcards1.Problems-Basic_calculator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Flashcards1.Problems-Basic_calculator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Flashcards1.Problems-Basic_calculator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Basic calculator/Flashcards1.Problems-Basic_calculator.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Flashcards1.Problems-Concat_positive_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Flashcards1.Problems-Concat_positive_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Flashcards1.Problems-Concat_positive_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Flashcards1.Problems-Concat_positive_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Flashcards1.Problems-Concat_positive_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Concat positive numbers/Flashcards1.Problems-Concat_positive_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards1.Problems-Find_the_nearest_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards1.Problems-Find_the_nearest_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards1.Problems-Find_the_nearest_number.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards1.Problems-Find_the_nearest_number.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards1.Problems-Find_the_nearest_number.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the nearest number/Flashcards1.Problems-Find_the_nearest_number.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First digit/Flashcards1.Problems-First_digit.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First digit/Flashcards1.Problems-First_digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First digit/Flashcards1.Problems-First_digit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First digit/Flashcards1.Problems-First_digit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First digit/Flashcards1.Problems-First_digit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First digit/Flashcards1.Problems-First_digit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Flashcards1.Problems-Get_first_and_last_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Flashcards1.Problems-Get_first_and_last_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Flashcards1.Problems-Get_first_and_last_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Flashcards1.Problems-Get_first_and_last_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Flashcards1.Problems-Get_first_and_last_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Get first and last elements/Flashcards1.Problems-Get_first_and_last_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Flashcards1.Problems-Parameters_and_their_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Flashcards1.Problems-Parameters_and_their_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Flashcards1.Problems-Parameters_and_their_values.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Flashcards1.Problems-Parameters_and_their_values.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Flashcards1.Problems-Parameters_and_their_values.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parameters and their values/Flashcards1.Problems-Parameters_and_their_values.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Flashcards1.Problems-Sorting_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Flashcards1.Problems-Sorting_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Flashcards1.Problems-Sorting_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Flashcards1.Problems-Sorting_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Flashcards1.Problems-Sorting_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting numbers/Flashcards1.Problems-Sorting_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards1.util.test.iml" />
+    </modules>
+  </component>
+</project>

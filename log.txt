@@ -1,0 +1,80 @@
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+add
+The card:
+one
+The definition of the card:
+1
+The pair ("one":"1") has been added.
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+two
+
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+add
+The card:
+two
+The definition of the card:
+2
+The pair ("two":"2") has been added.
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+ask
+How many times to ask?
+2
+Print the definition of "one":
+2
+Wrong. The right answer is "1", but your definition is correct for "two".
+Print the definition of "two":
+2
+Correct!
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+hardest card
+
+The hardest card is "one". 
+You have 1 errors answering it.
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+ask
+How many times to ask?
+2
+Print the definition of "one":
+2
+Wrong. The right answer is "1", but your definition is correct for "two".
+Print the definition of "two":
+2
+Correct!
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+hardest card
+
+The hardest card is "one". 
+You have 2 errors answering it.
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+ask
+How many times to ask?
+4
+Print the definition of "one":
+1
+Correct!
+Print the definition of "two":
+1
+Wrong. The right answer is "2", but your definition is correct for "one".
+Print the definition of "one":
+1
+Correct!
+Print the definition of "two":
+1
+Wrong. The right answer is "2", but your definition is correct for "one".
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+hardest card
+The hardest card are "one", "two". 
+You have 2 errors answering it.
+
+Input the action (add, remove, import, export, ask, hardest card, reset stats, log, exit):
+log
+File name:
+log.txt
